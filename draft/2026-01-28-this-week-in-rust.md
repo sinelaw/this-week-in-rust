@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Fresh, intuitive terminal-based IDE - 0.1.90 release - new package manager, language packs, and unified command palette](https://github.com/sinelaw/fresh/releases/tag/v0.1.90) 
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
