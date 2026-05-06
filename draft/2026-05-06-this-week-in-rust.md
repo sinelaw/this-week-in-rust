@@ -47,6 +47,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Fresh 0.3.4: New live grep UI, terminal-native theme, configruable cursor animation, and more](https://github.com/sinelaw/fresh/releases/tag/v0.3.4)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
