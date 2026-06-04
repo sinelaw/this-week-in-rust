@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [Fresh 0.3.11: Orchestrate multiple windows/sessions, connect to remote over SSH without leaving the UI, LSP go-to-symbol, and much more](https://github.com/sinelaw/fresh/releases/tag/v0.3.11)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
