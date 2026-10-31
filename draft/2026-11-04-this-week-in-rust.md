@@ -48,6 +48,8 @@ and just ask the editors to select the category.
 <!-- IMPORTANT NOTE: We are no longer accepting pull request submissions for the Project/Tooling Updates section.
 See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575 -->
 
+* [Fresh 0.5.7: Terminal IDE adds side-by-side file compare with `fresh --diff`, Universal Search across all workspaces, and lower idle CPU from the git status bar](https://github.com/sinelaw/fresh/releases/tag/v0.5.7)
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
